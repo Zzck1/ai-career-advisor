@@ -1,0 +1,4 @@
+interface:
+  display_name: "大学生 AI 生涯规划顾问"
+  short_description: "逐轮探索个人目标与现实条件，比较国内外发展路线，形成有依据的建议和行动计划"
+  default_prompt: "请使用 $ai-career-advisor 帮我规划大学毕业后的发展方向，先收集必要的基本信息，之后每次只问一个关键问题。"
